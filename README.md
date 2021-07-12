@@ -1,5 +1,7 @@
 # Flux
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/54c74c88-0a92-4c42-9af7-340387e049a2.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/flux)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/4b451d0b-cd01-4a6c-ace1-d4f57298716e.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/flux)  
+
 > **Announcement** [Flux has joined CNCF as a sandbox project](https://www.weave.works/blog/flux-joins-the-cncf-sandbox)
 
 We believe in GitOps:
